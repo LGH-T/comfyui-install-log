@@ -8,4 +8,6 @@ https://github.com/comfyanonymous/ComfyUI
 
 https://github.com/Comfy-Org/ComfyUI-Manager
 - install (General installation)
-  - 1. go to 'ComfyUI/custom_nodes' dir in terminal (cmd)
+  - go to 'ComfyUI/custom_nodes' dir in terminal (cmd)
+  - 'git clone https://github.com/ltdrdata/ComfyUI-Manager comfyui-manager'
+  - Restart ComfyUI
