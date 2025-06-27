@@ -1,5 +1,5 @@
-# comfyui-install-log
+# comfyui-install
 
 ## How to Install
-[https://github.com/comfyanonymous/ComfyUI]
+https://github.com/comfyanonymous/ComfyUI
 ### Direct link to download
