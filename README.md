@@ -1,5 +1,11 @@
 # comfyui-install
 
-## How to Install
 https://github.com/comfyanonymous/ComfyUI
 (Direct link to download)
+
+
+# comfyui manager-install
+
+https://github.com/Comfy-Org/ComfyUI-Manager
+- install (General installation)
+  - 1. go to 'ComfyUI/custom_nodes' dir in terminal (cmd)
